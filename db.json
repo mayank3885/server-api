@@ -1,29 +1,14 @@
 {
   "contacts": [
     {
-      "id": "55bb9f20-f45c-11eb-be42-bb476e7e663f",
-      "name": "Rashmikant ",
-      "email": "rkmakwana@icloud.com"
-    },
-    {
       "id": "5febb2b0-f4f1-11eb-9ee7-0bc9efffd147",
       "name": "blabla@ghghg.in",
       "email": "blabla@ghghg.in"
     },
     {
-      "id": "641deab0-f4f1-11eb-9ee7-0bc9efffd147",
-      "name": "HighCourt_AdHoc_Profile",
-      "email": "7737129667"
-    },
-    {
       "id": "f6de57a0-f4fa-11eb-9104-b3814dadfaa6",
       "name": "Brad Pitt",
-      "email": "tylordurden@fc.com"
-    },
-    {
-      "id": "454ca1e0-f4ff-11eb-b474-3fdcff46560e",
-      "name": "GMSTest",
-      "email": "rk.10.1989@gmail.com"
+      "email": "tylerdurden@fc.com"
     }
   ]
 }
